@@ -1,0 +1,7 @@
+{
+  "interval": 1.0,
+  "targets": ["8.8.8.8", "1.1.1.1", "9.9.9.9"],
+  "traceroute_interval": 300,
+  "latency_alert_ms": 150,
+  "loss_alert_pct": 5.0
+}

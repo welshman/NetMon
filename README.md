@@ -87,7 +87,7 @@ Press **Ctrl+C** to stop. Logs are saved to `./logs/`.
        1.1.1.1           10.0 ms      9.2 ms     7.0 ms    13.0 ms    0.0%     0.7 ms
                      ▆▆▆▅▅▅▆▄▅▆▅▅▆▅▄▅▅▅▅▆▅█▅▅▅▆▄▆▅▆
 ──────────────────────────────────────────────────────────────────────────────────────────
-  Interface: Wi-Fi  [WiFi]  IP: 192.168.1.42  Status: UP
+  Interface: Wi-Fi  [WiFi]  IP: 192.168.1.2  Status: UP
   SSID: MyHomeWifi  Signal: -62 dBm  Quality: 74%
   Channel: 6  Band/Radio: 802.11n
   Sent: 1.2 MB  Received: 8.7 MB

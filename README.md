@@ -75,6 +75,7 @@ Press **Ctrl+C** to stop. Logs are saved to `./logs/`.
 
 ```
                  NetMon — Network Stability Monitor
+
   Date: 2025-04-09 | Time: 03:42:01 | Uptime 00:05:12
 ──────────────────────────────────────────────────────────────────────────────────────────
   TARGET                   LAST        AVG        MIN        MAX      LOSS     JITTER
